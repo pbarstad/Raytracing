@@ -6,4 +6,4 @@ $ make all
 To execute do:
 $./raytracer argument1 argument2
 
-
+Running this code will require installing the glm graphics library.
